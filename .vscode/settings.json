@@ -1,0 +1,6 @@
+{
+  "[javascript]": {
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "javascript.preferences.quoteStyle": "double"
+  }
+}
